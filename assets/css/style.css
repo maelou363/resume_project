@@ -10,10 +10,13 @@
     background-color: #ffffff;
 }
 
+<<<<<<< HEAD
 .bg-color-personal-info {
     background-color: #f4f4f4;
 }
 
+=======
+>>>>>>> 99c6c731001da1a8e190ffd91d38151e18a275c4
 .ui-menu-color-home {
     background-color: #e67e22;
 }
@@ -144,7 +147,10 @@ h1, h2, h3 ,h4 {
 
 .inline-block {
     display: inline-block;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 99c6c731001da1a8e190ffd91d38151e18a275c4
 }
 
 .row-table {
@@ -214,6 +220,7 @@ footer {
 
 #footer-details {
     padding: 20px;
+<<<<<<< HEAD
 }
 
 
@@ -284,4 +291,6 @@ footer {
 
 .progress-section {
     margin: 40px 20px;
+=======
+>>>>>>> 99c6c731001da1a8e190ffd91d38151e18a275c4
 }
